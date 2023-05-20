@@ -5,4 +5,4 @@ This uses the Twilio (and others available on it such as Icehook Scout, and Nomo
 
 You may also have to install ```twilio``` using pip.
 
-Nomorobo is a scam call lookup service, if it returns ```TRUE``` then the number is a robocaller/scam.
+Nomorobo is a scam call blocking service, if it returns ```TRUE``` then the number is a robocaller/scam.
